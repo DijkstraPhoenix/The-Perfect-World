@@ -1,2 +1,2 @@
-# The-Perfect-World
+# The Perfect World
 A lightweight console sandbox game
